@@ -52,8 +52,7 @@ const Hero: React.FC = () => {
                 Contact Me
               </a>
               <a 
-                href="https://drive.google.com/file/d/1gaZHGZnuNxT3Rpm3Hm3AL6bjsGlj4rwL/view?usp=drivesdk" 
-                className="px-6 py-3 border border-blue-600 dark:border-blue-400 text-blue-600 dark:text-blue-400 font-medium rounded-lg flex items-center gap-2 hover:bg-blue-50 dark:hover:bg-gray-800 transition-colors"
+                href="https://drive.google.com/file/d/1tqHQdzMCnZRXhkaXevnnP_1I4Re2NUGe/view?usp=drivesdk"
                 download
               >
                 <Download size={18} /> Resume
