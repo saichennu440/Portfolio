@@ -13,7 +13,7 @@ interface ExperienceItem {
 const experienceData: ExperienceItem[] = [
   {
     id: 1,
-    title: "Full Stack Developer",
+    title: "Full Stack Developer intern",
     company: "Busitron solutions Pvt Ltd",
     location: "Hyderabad, India",
     period: "2024 Oct - 2025 May",
