@@ -25,16 +25,26 @@ const projectsData: Project[] = [
   },
   {
     id: 2,
+    title: "Astro Ping",
+    description: "A blog website with features like user authentication,API integration, daily horoscope",
+    image: "https://images.pexels.com/photos/4068314/pexels-photo-4068314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    technologies: ["React", "Javascript", "HTML/CSS", "Material UI"],
+    category: "Frontend",
+    githubUrl: "https://github.com/saichennu440/AstroPing",
+    liveUrl: "https://astro-ping.vercel.app/"
+  },
+  {
+    id: 3,
     title: "School Website",
     description: "A responsive school website with features like student registration, teacher login, and student dashboard.",
     image: "https://images.pexels.com/photos/4068314/pexels-photo-4068314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     technologies: ["React", "Javascript", "HTML/CSS", "Material UI"],
     category: "Frontend",
-    githubUrl: "https://github.com",
+    githubUrl: "https://github.com/saichennu440/westberry.in",
     liveUrl: "https://westberry-in.vercel.app/"
   },
   {
-    id: 3,
+    id: 4,
     title: "Weather Dashboard",
     description: "A weather application that provides real-time forecasts, historical data, and interactive maps using weather API integration.",
     image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -44,7 +54,7 @@ const projectsData: Project[] = [
     liveUrl: "https://weatherapp-ivory-three.vercel.app/"
   },
   {
-    id: 4,
+    id: 5,
     title: "Booking request website for Acqua Farmers",
     description: "A booking request website for Acqua Farmers, where farmers can create and manage their booking requests.",
     image: "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
